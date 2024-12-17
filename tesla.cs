@@ -16,7 +16,7 @@ namespace TeslaRentalPlatform
                 InitializeDatabase(connection);
 
                 Console.WriteLine("Tesla Rental Platform initialized.");
-                // Add logic for interacting with the system here.
+            
             }
         }
 
